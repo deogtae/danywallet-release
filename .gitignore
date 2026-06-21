@@ -1,0 +1,4 @@
+# 배포 바이너리는 git이 아니라 GitHub Releases 자산으로 올린다
+# (GitHub는 저장소에 100MB 초과 파일 push를 거부함)
+*.apk
+*.zip
